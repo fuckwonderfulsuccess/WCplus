@@ -1,0 +1,1 @@
+START /B .\mongodb\bin\mongod.exe --dbpath .\data

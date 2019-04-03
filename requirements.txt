@@ -1,0 +1,15 @@
+lxml
+peewee
+copy
+loguru
+threading
+requests
+webbrowser
+flask
+pymongo
+flask_socketio
+mitmproxy
+psutil
+flask_restful
+flask_cors
+
