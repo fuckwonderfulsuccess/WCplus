@@ -1,0 +1,13 @@
+lxml
+peewee
+loguru
+requests
+flask
+pymongo
+mitmproxy
+psutil
+flask_socketio
+flask_restful
+flask_cors
+gevent
+elasticsearch
